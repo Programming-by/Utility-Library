@@ -1,0 +1,8 @@
+﻿  Util Library.cpp
+C:\Users\User\Source\Repos\Util Library\Util Library\clsString.h(44,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\User\Source\Repos\Util Library\Util Library\clsString.h(70,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\User\Source\Repos\Util Library\Util Library\clsString.h(179,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Source\Repos\Util Library\Util Library\clsString.h(211,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\User\Source\Repos\Util Library\Util Library\clsString.h(216,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\User\Source\Repos\Util Library\Util Library\clsString.h(372,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Util Library.vcxproj -> C:\Users\User\Source\Repos\Util Library\x64\Debug\Util Library.exe
